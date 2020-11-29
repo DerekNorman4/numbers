@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Derek Norman 
+2. Student ID: 2364922
+3. Email: norman@chapman.edu
+4. Class: CPSC-298-01
 5. Assignment: numbers 
 
 ## Application Purpose
