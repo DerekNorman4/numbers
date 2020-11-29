@@ -5,7 +5,7 @@
 echo "Please enter a positive number: "
 read INPUT
 Num=1
-while [ $Num -le $INPUT ]
+while [ "$Num" -le "$INPUT" ]
 do
 	if [ $((Num%2)) -eq 0 ]
 	then
